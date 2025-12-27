@@ -1,0 +1,153 @@
+
+ [
+   
+  {
+    "id":"1",
+    "img": "https://rainas.in/cdn/shop/files/IMG_7468.jpg?v=1758886468&width=500",
+   "name": "Gulraag",
+    "price": "10,500",
+    "path":"/newinone/"
+
+  },
+
+  {
+  "id":"2",
+  "img": "https://rainas.in/cdn/shop/files/Rainas1134_48b86b2a-5498-42aa-b2e6-ab7cae07904a.jpg?v=1757992972&width=500",
+  "name": "Raag Bandej",
+  "price": "16,500",
+  "path":"/newintwo/"
+  },
+
+  {
+      "id":"3",
+      "img":  "https://rainas.in/cdn/shop/files/resize-03.jpg?v=1758531732&width=500",
+      "name": "Lilora",
+      "price": "16,500",
+      "path":"/newinthree/"
+
+  },
+
+  {
+    "id":"4",
+    "img": "https://rainas.in/cdn/shop/files/Rainas1318.jpg?v=1757992535&width=500",
+   "name": "Blushstone",
+    "price": "10,500",
+    "path":"/suitdetailf/"
+},
+   
+  {
+  "id":"5",
+  "img": "https://rainas.in/cdn/shop/files/Rainas682_4877dc3c-8473-4b8a-be57-65f7acc18a3e.jpg?v=1758003500&width=500",
+  "name": "Creamora",
+  "price": "16,500",
+  "path":"/suitdetails/"
+  
+  },
+  {
+      "id":"6",
+      "img":  "https://rainas.in/cdn/shop/files/Rainas772.jpg?v=1758003419&width=500",
+      "name": "Powderblush",
+      "price": "16,500",
+      "path":"/suitdetailst/"
+  },
+
+  {
+        "id":"7",
+    "img":  "https://rainas.in/cdn/shop/files/Rainas1301.jpg?v=1749451688&width=500",
+  "name": "Bluebell Whisper",
+  "price": "20,500",
+  "path":"/dressf/"
+  },
+
+  {
+        "id":"8",
+    "img":  "https://rainas.in/cdn/shop/files/Rainas1271.jpg?v=1749451690&width=500",
+   "name": "Floweral Symphony", 
+   "price": "20,500",
+   "path":"/dresss/"
+  },
+
+      
+    {
+          "id":"9",
+      "img":"https://rainas.in/cdn/shop/files/rainas-july18979-copy-2.jpg?v=1749451946&width=500",
+      "name": "White Popin",
+      "price": "14,900",
+      "path":"/dresst/"
+    
+    },
+    {
+          "id":"10",
+      "img":"https://cdn.shopify.com/s/files/1/2542/7564/files/1.webp?v=1687602205",
+    "name": "Modern Sharara",
+    "price": "17,500",
+    "path":"/shararaf/"
+    },
+    {
+         "id":"11", 
+      "img":"https://cdn.shopify.com/s/files/1/2542/7564/files/2_96aa8d82-1df4-46e9-8ff3-c91065d12721.jpg?v=1725540549",
+      "name": "Anarkali Sharara", 
+      "price": "40,500",
+      "path":"/shararas/"
+  },
+    {
+          "id":"12",
+      "img":"https://cdn.shopify.com/s/files/1/2542/7564/files/2_995dc6c8-92da-4da7-b9c3-cc0073a2c3e5.jpg?v=1758803715",
+       "name": " A-Line Sharara", 
+       "price": "60,500",
+       "path":"/shararat/"
+     },
+      
+    {
+      "id":"13",
+      "img": "https://tapee.in/cdn/shop/files/GeorgetteLucknowiSequenceWorkRosyBrownLehengaCholi.png?v=1694674225",
+     "name": "Ruffle Lehenga",
+     "price": "48,500",
+     "path":"/lehengaf/"
+    },
+    {
+          "id":"14",
+      "img": "https://tapee.in/cdn/shop/products/C1032.jpg?v=1658494191",
+    "name": "Mermaid Lehenga",  
+    "price": "99,500",
+    "path":"/lehengas/"
+    },
+    {
+          "id":"15",
+      "img": "https://tapee.in/cdn/shop/files/PrettySoftNetSequenceZariEmbroideryWorkBrownLehenga.png?v=1688123051",
+      "name": "Silk Glittery Lehenga",
+      "price": "67,500",
+      "path":"/lehengat/"
+    },
+    {
+          "id":"16",
+      "img": "https://rainas.in/cdn/shop/files/Rainas1422.jpg?v=1758092530&width=500",
+      "name": "Soft Sage",
+      "price": "80,900",
+      "path":"/influncerone/"
+    },
+  
+{
+      "id":"17",
+  "img":  "https://rainas.in/cdn/shop/files/RAINASFESTIVE44383copy.jpg?v=1749452158&width=500",
+   "name": "Creamora",
+   "price": "99,500",
+   "path":"/influncertwo/"
+},
+{
+      "id":"18",
+  "img":  "https://rainas.in/cdn/shop/files/RAINA_S_1144.jpg?v=1749451823&width=500",
+  "name": "Rosava",
+  "price": "66,500",
+  "path":"/saleone/"
+},
+{
+      "id":"19",
+  "img":   "https://rainas.in/cdn/shop/files/RAINA_S_0542.jpg?v=1749451856&width=500",
+  "name": "Rosina",
+  "price": "66,800",
+  "path":"/saletwo/"
+
+}  
+]
+
